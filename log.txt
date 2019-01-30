@@ -140,3 +140,9 @@ Used spotify-this-song to find:
 "preview song: " + songList.preview_url
 "album: " + songList.album.name
 --------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------

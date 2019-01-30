@@ -8,8 +8,8 @@ var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
 var spotify = new Spotify({
-  id:'6cb9389c240540dbb53edd23ca19f26f',
-  secret:'d3c649f445f544d0ad46d175f07f3b97'
+  id: process.env.SPOTIFY_ID,
+  secret: process.env.SPOTIFY_SECRET
 });
 
 //variabble for CLI ****refered to bank.js solved in class
