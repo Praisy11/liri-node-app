@@ -1,0 +1,142 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Movie Title: Dangalundefined
+Release Year: 2016undefined
+Country: Indiaundefined
+IMDB Rating: 8.5undefined
+Language: Hindi, Tamil, Teluguundefined
+Plot: Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.undefined
+Rotten Tomatoes Rating: 92%undefined
+Actors: Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwarundefined
+[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------[object Object][object Object][object Object]
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
+Used spotify-this-song to find: 
+"artist(s): " + songList.artists.name
+"song name: " + songList.name
+"preview song: " + songList.preview_url
+"album: " + songList.album.name
+--------------------
